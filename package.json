@@ -1,0 +1,9 @@
+{
+  "name": "samurai-mistake-journal-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive landing page for a self-improvement mistake journaling app.",
+  "scripts": {
+    "start": "python3 -m http.server 4173"
+  }
+}
